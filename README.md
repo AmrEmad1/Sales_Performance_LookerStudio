@@ -1,5 +1,6 @@
 # Looker Studio Dashboard: Sales Performance Overview
-
+*   Looker Studio Dashboard:
+(https://lookerstudio.google.com/reporting/64cdda23-5fec-431a-b0b1-462112ed0c72)
 This document describes a Looker Studio dashboard designed to provide a comprehensive overview of sales performance.
 
 ## Overview
